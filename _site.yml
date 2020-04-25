@@ -1,0 +1,18 @@
+navbar:
+  title: Bucco Vote vs. Assembly
+  left:
+  - text: Session
+    menu:
+    - text: 2010-2011
+      href: Widget_2010.html
+    - text: 2012-2013
+      href: Widget_2012.html
+    - text: 2014-2016
+      href: Widget_2014.html
+    - text: 2016-2017
+      href: Widget_2016.html
+    - text: 2018-2019
+      href: Widget_2018.html
+output:
+  html_document:
+    theme: flatly
